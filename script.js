@@ -11,3 +11,4 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
     a.download = "logins.txt";
     a.click();
 });
+
